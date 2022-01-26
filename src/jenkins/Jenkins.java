@@ -2,12 +2,12 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-import package jenkins;
+package jenkins;
 /**
  *
  * @author joalro2122daw2
  */
-java.io.*;
+import java.io.*;
 public class Jenkins {
     /**
      * @param args the command line arguments
